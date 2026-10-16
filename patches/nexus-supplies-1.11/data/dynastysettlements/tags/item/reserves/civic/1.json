@@ -1,0 +1,101 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#c:ingots/copper",
+      "required": false
+    },
+    {
+      "id": "#c:ingots/plastic",
+      "required": false
+    },
+    {
+      "id": "#c:ingots/rubber",
+      "required": false
+    },
+    {
+      "id": "#c:ingots/tin",
+      "required": false
+    },
+    {
+      "id": "#c:ingots/zinc",
+      "required": false
+    },
+    {
+      "id": "#c:plates/copper",
+      "required": false
+    },
+    {
+      "id": "#c:plates/zinc",
+      "required": false
+    },
+    {
+      "id": "#c:wires/copper",
+      "required": false
+    },
+    {
+      "id": "#c:wires/iron",
+      "required": false
+    },
+    {
+      "id": "create:andesite_alloy",
+      "required": false
+    },
+    {
+      "id": "create:chute",
+      "required": false
+    },
+    {
+      "id": "create:copper_valve_handle",
+      "required": false
+    },
+    {
+      "id": "create:fluid_pipe",
+      "required": false
+    },
+    {
+      "id": "create:shaft",
+      "required": false
+    },
+    {
+      "id": "minecraft:charcoal",
+      "required": false
+    },
+    {
+      "id": "minecraft:clay_ball",
+      "required": false
+    },
+    {
+      "id": "minecraft:coal",
+      "required": false
+    },
+    {
+      "id": "minecraft:copper_ingot",
+      "required": false
+    },
+    {
+      "id": "minecraft:glass_bottle",
+      "required": false
+    },
+    {
+      "id": "minecraft:paper",
+      "required": false
+    },
+    {
+      "id": "minecraft:redstone",
+      "required": false
+    },
+    {
+      "id": "minecraft:soul_torch",
+      "required": false
+    },
+    {
+      "id": "minecraft:string",
+      "required": false
+    },
+    {
+      "id": "minecraft:torch",
+      "required": false
+    }
+  ]
+}

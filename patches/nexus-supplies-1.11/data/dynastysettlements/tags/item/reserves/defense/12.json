@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:diamond_axe",
+      "required": false
+    },
+    {
+      "id": "minecraft:diamond_boots",
+      "required": false
+    },
+    {
+      "id": "minecraft:diamond_helmet",
+      "required": false
+    },
+    {
+      "id": "minecraft:diamond_sword",
+      "required": false
+    },
+    {
+      "id": "tfmg:steel_mechanism",
+      "required": false
+    }
+  ]
+}

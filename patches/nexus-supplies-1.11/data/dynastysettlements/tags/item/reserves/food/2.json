@@ -1,0 +1,745 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "cookscollection:cooking_oil",
+      "required": false
+    },
+    {
+      "id": "cookscollection:fried_potato",
+      "required": false
+    },
+    {
+      "id": "cookscollection:rustic_loaf_slice",
+      "required": false
+    },
+    {
+      "id": "cookscollection:salt",
+      "required": false
+    },
+    {
+      "id": "create:bar_of_chocolate",
+      "required": false
+    },
+    {
+      "id": "create:dough",
+      "required": false
+    },
+    {
+      "id": "create:wheat_flour",
+      "required": false
+    },
+    {
+      "id": "createhusbandry:butter",
+      "required": false
+    },
+    {
+      "id": "createhusbandry:cheese_slice",
+      "required": false
+    },
+    {
+      "id": "createhusbandry:cheese_wheel",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:butter",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:cheese_block",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:cheese_wedge",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:cheese_wheel",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:cooked_calamari",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:cooked_sausage",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:cooked_squid",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:corn_dough",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:cut_pickle",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:pickle",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:pickled_egg",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:popcorn",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:raw_sausage",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:smoked_corn",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:smoked_cut_eggplant",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:smoked_eggplant",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:smoked_tomato",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:smoked_white_eggplant",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:tofu",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:tortilla",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:tortilla_chips",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:vinegar",
+      "required": false
+    },
+    {
+      "id": "dumplings_delight:vinegar",
+      "required": false
+    },
+    {
+      "id": "ends_delight:chorus_fruit_grain",
+      "required": false
+    },
+    {
+      "id": "ends_delight:chorus_sauce",
+      "required": false
+    },
+    {
+      "id": "ends_delight:dried_chorus_flower",
+      "required": false
+    },
+    {
+      "id": "ends_delight:dried_endermite_meat",
+      "required": false
+    },
+    {
+      "id": "ends_delight:roasted_dragon_meat",
+      "required": false
+    },
+    {
+      "id": "ends_delight:roasted_dragon_meat_cuts",
+      "required": false
+    },
+    {
+      "id": "ends_delight:roasted_dragon_steak",
+      "required": false
+    },
+    {
+      "id": "ends_delight:roasted_shulker_meat",
+      "required": false
+    },
+    {
+      "id": "ends_delight:roasted_shulker_meat_slice",
+      "required": false
+    },
+    {
+      "id": "ends_delight:smoked_dragon_leg",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:apple_pie_slice",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:beef_patty",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:chocolate_pie_slice",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:cooked_bacon",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:cooked_chicken_cuts",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:cooked_cod_slice",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:cooked_mutton_chops",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:cooked_rice",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:cooked_salmon_slice",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:fried_egg",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:melon_juice",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:pie_crust",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:smoked_ham",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:sweet_berry_cheesecake_slice",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:tomato_sauce",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:wheat_dough",
+      "required": false
+    },
+    {
+      "id": "fruitsdelight:apple_jam",
+      "required": false
+    },
+    {
+      "id": "fruitsdelight:baked_durian",
+      "required": false
+    },
+    {
+      "id": "fruitsdelight:baked_pear",
+      "required": false
+    },
+    {
+      "id": "fruitsdelight:bayberry_jam",
+      "required": false
+    },
+    {
+      "id": "fruitsdelight:blueberry_jam",
+      "required": false
+    },
+    {
+      "id": "fruitsdelight:cranberry_jam",
+      "required": false
+    },
+    {
+      "id": "fruitsdelight:dried_persimmon",
+      "required": false
+    },
+    {
+      "id": "fruitsdelight:durian_jam",
+      "required": false
+    },
+    {
+      "id": "fruitsdelight:fig_jam",
+      "required": false
+    },
+    {
+      "id": "fruitsdelight:glowberry_jam",
+      "required": false
+    },
+    {
+      "id": "fruitsdelight:hamimelon_jam",
+      "required": false
+    },
+    {
+      "id": "fruitsdelight:hamimelon_juice",
+      "required": false
+    },
+    {
+      "id": "fruitsdelight:hawberry_jam",
+      "required": false
+    },
+    {
+      "id": "fruitsdelight:kiwi_jam",
+      "required": false
+    },
+    {
+      "id": "fruitsdelight:kiwi_juice",
+      "required": false
+    },
+    {
+      "id": "fruitsdelight:lemon_jam",
+      "required": false
+    },
+    {
+      "id": "fruitsdelight:lemon_juice",
+      "required": false
+    },
+    {
+      "id": "fruitsdelight:lychee_jam",
+      "required": false
+    },
+    {
+      "id": "fruitsdelight:mango_jam",
+      "required": false
+    },
+    {
+      "id": "fruitsdelight:mangosteen_jam",
+      "required": false
+    },
+    {
+      "id": "fruitsdelight:melon_jam",
+      "required": false
+    },
+    {
+      "id": "fruitsdelight:orange_jam",
+      "required": false
+    },
+    {
+      "id": "fruitsdelight:orange_juice",
+      "required": false
+    },
+    {
+      "id": "fruitsdelight:peach_jam",
+      "required": false
+    },
+    {
+      "id": "fruitsdelight:pear_jam",
+      "required": false
+    },
+    {
+      "id": "fruitsdelight:pear_juice",
+      "required": false
+    },
+    {
+      "id": "fruitsdelight:persimmon_jam",
+      "required": false
+    },
+    {
+      "id": "fruitsdelight:pineapple_jam",
+      "required": false
+    },
+    {
+      "id": "fruitsdelight:sweetberry_jam",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_cookery:cooked_cow_offal",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_cookery:cooked_cut_small_meats",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_cookery:cooked_lamb_chops",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_cookery:cooked_meatball",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_cookery:cooked_pork_belly",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_cookery:cooked_rice",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_cookery:dried_tea_leaves",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_cookery:flour",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_cookery:fried_egg",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_cookery:mantou",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_cookery:oil",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_cookery:raw_dough",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_cookery:raw_meatball",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_cookery:raw_noodles",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_cookery:sticky_rice_cake",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_cookery:tea_egg",
+      "required": false
+    },
+    {
+      "id": "korean_food:chili_powder",
+      "required": false
+    },
+    {
+      "id": "korean_food:fermented_meju",
+      "required": false
+    },
+    {
+      "id": "korean_food:fish_cake",
+      "required": false
+    },
+    {
+      "id": "korean_food:gochujang",
+      "required": false
+    },
+    {
+      "id": "korean_food:kimchi",
+      "required": false
+    },
+    {
+      "id": "korean_food:mukeunji",
+      "required": false
+    },
+    {
+      "id": "korean_food:rice_cake",
+      "required": false
+    },
+    {
+      "id": "korean_food:salt",
+      "required": false
+    },
+    {
+      "id": "korean_food:sesame_oil",
+      "required": false
+    },
+    {
+      "id": "korean_food:soy_sauce",
+      "required": false
+    },
+    {
+      "id": "korean_food:tofu",
+      "required": false
+    },
+    {
+      "id": "mexicansdelight:masa",
+      "required": false
+    },
+    {
+      "id": "mexicansdelight:raw_tortilla",
+      "required": false
+    },
+    {
+      "id": "mexicansdelight:taco_shell",
+      "required": false
+    },
+    {
+      "id": "mexicansdelight:tortilla",
+      "required": false
+    },
+    {
+      "id": "mexicansdelight:tortilla_chip",
+      "required": false
+    },
+    {
+      "id": "minecraft:baked_potato",
+      "required": false
+    },
+    {
+      "id": "minecraft:bread",
+      "required": false
+    },
+    {
+      "id": "minecraft:cooked_beef",
+      "required": false
+    },
+    {
+      "id": "minecraft:cooked_chicken",
+      "required": false
+    },
+    {
+      "id": "minecraft:cooked_cod",
+      "required": false
+    },
+    {
+      "id": "minecraft:cooked_mutton",
+      "required": false
+    },
+    {
+      "id": "minecraft:cooked_porkchop",
+      "required": false
+    },
+    {
+      "id": "minecraft:cooked_rabbit",
+      "required": false
+    },
+    {
+      "id": "minecraft:cooked_salmon",
+      "required": false
+    },
+    {
+      "id": "minecraft:cookie",
+      "required": false
+    },
+    {
+      "id": "minecraft:dried_kelp",
+      "required": false
+    },
+    {
+      "id": "minecraft:honey_bottle",
+      "required": false
+    },
+    {
+      "id": "minecraft:sugar",
+      "required": false
+    },
+    {
+      "id": "moredelight:bread_slice",
+      "required": false
+    },
+    {
+      "id": "moredelight:toast",
+      "required": false
+    },
+    {
+      "id": "oceansdelight:baked_tentacle_on_a_stick",
+      "required": false
+    },
+    {
+      "id": "unusualend:chorus_juice",
+      "required": false
+    },
+    {
+      "id": "unusualend:cooked_bluk",
+      "required": false
+    },
+    {
+      "id": "unusualend:cooked_bolok_fin",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:boiled_pickerelweed",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:cooked_lionfish",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:cooked_perch",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:cooked_pike",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:mulberry_jam_bottle",
+      "required": false
+    },
+    {
+      "id": "vinery:apple_juice",
+      "required": false
+    },
+    {
+      "id": "vinery:apple_mash",
+      "required": false
+    },
+    {
+      "id": "vinery:red_grapejuice",
+      "required": false
+    },
+    {
+      "id": "vinery:red_jungle_grapejuice",
+      "required": false
+    },
+    {
+      "id": "vinery:red_savanna_grapejuice",
+      "required": false
+    },
+    {
+      "id": "vinery:red_taiga_grapejuice",
+      "required": false
+    },
+    {
+      "id": "vinery:white_grapejuice",
+      "required": false
+    },
+    {
+      "id": "vinery:white_jungle_grapejuice",
+      "required": false
+    },
+    {
+      "id": "vinery:white_savanna_grapejuice",
+      "required": false
+    },
+    {
+      "id": "vinery:white_taiga_grapejuice",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:black_grape_juice",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:black_tea_leaves",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:bowl_of_cream",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:butter",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:crab_meat",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:dark_tea_leaves",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:green_tea_leaves",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:grilled_boarchop",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:grilled_boarchop_bits",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:grilled_venison",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:grilled_venison_slice",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:imitation_crab",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:mantou",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:matcha",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:mayonnaise_bottle",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:nattou",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:oily_bean_curd",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:oolong_tea_leaves",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:raisin",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:red_grape_juice",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:roasted_lamprey",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:roasted_lamprey_fillet",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:seared_tuna",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:seared_tuna_slice",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:soy_sauce_bottle",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:steamed_crab",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:steamed_egg_in_bamboo",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:tofu",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:white_grape_juice",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:white_tea_leaves",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:yellow_tea_leaves",
+      "required": false
+    }
+  ]
+}

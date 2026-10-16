@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#c:storage_blocks/zinc",
+      "required": false
+    },
+    {
+      "id": "minecraft:bookshelf",
+      "required": false
+    },
+    {
+      "id": "minecraft:coal_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:copper_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:redstone_block",
+      "required": false
+    }
+  ]
+}

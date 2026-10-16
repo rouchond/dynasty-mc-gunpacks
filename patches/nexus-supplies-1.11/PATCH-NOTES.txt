@@ -1,0 +1,34 @@
+Nexus supplies expansion - October 16, 2026
+
+This patch expands manual Nexus reserve contributions. It does not activate the proposed retail food catalog, alcohol market, category demand or automatic warehouse reserve replenishment. Existing reserve balances, capacities, upkeep, project costs and free-testing authorization are unchanged. Transfers continue through the existing journaled deposit coordinator.
+
+FOOD
+Broad support for installed crops, raw ingredients, processed foods and prepared meals from the prior inventory audit, with common crop/raw-food/cooked-food tags for compatible additions. Raw ingredients generally contribute 1, basic processed foods 2, cooked proteins 3, prepared meals 5 and selected premium dishes 6 points. These are supply contributions, not Spur prices or automatic market classifications. Existing bread (2), basic vanilla crops (1) and cooked vanilla proteins (3) retain their values.
+
+Whole meals and packed resources can be worth more than one serving: whole supported dragon feasts are 24, Dragon Leg with Sauce is 36, supported four-portion roast dinners are 24, and rice bags are 9. Farmer's Delight raw rice and raw pasta are now 1 rather than accidentally receiving the old name-based 5-point meal value. Standard pies are 8 whole / 2 per slice. Highest matching tag tier wins; values never add together.
+
+Alcohol contributes zero Food points. Explicitly excluded toxic/effect items and unfinished End mixtures remain excluded. Foods with harmful standard food effects are rejected, except hunger on otherwise supported raw ingredients. Native custom effects not represented in the food component still require in-game observation; this is not a claim of completed runtime acceptance for every installed dish.
+
+CONSTRUCTION
+Stone, cobblestone, deepslate, dirt, sand, gravel, sandstone, Nether/End materials, timber, ordinary slabs/stairs/walls/fences, glass, colored concrete/terracotta, masonry, quartz, purpur, obsidian, copper variants and supported industrial building materials. Installed mod blockstates and item models are used to include ordinary timber/masonry variants even when their mods omit common tags. All waxed and oxidized uncut copper block variants are now recognized.
+
+Common full building materials are generally 1-2 points, logs/wood 4, full copper blocks 6, copper slabs 3 and obsidian 8. Metal ingots/plates and bulk blocks have explicit tiers. Mod items use registered tags, not a live per-deposit name scan.
+
+CIVIC
+Lighting, paper/books, fuel, redstone components, crafting/storage infrastructure, metals, plates, wire, bulk metal blocks and Create/TFMG components. Examples: paper 1, lantern 2, book 3, chest 4, iron ingot 2 / block 18, brass sheet 4, precision mechanism 8, mechanical arm and TFMG steel mechanism 12. Common industrial material tags cover compatible mod resources.
+
+DEFENSE
+Leather, string, feathers, flint/arrows, gunpowder, iron/steel ingots and plates, bows/crossbows, shields, swords/axes, armor and selected advanced materials. Vanilla armor has material/slot-specific tiers; common armor/weapon tags provide fallback support for compatible mod equipment. Component-defined TaCZ guns/ammunition are not assigned a blanket value in this patch.
+
+Equipment must be undamaged. Loaded crossbows, nonempty inventory/bundle components, block-entity payloads and unresolved loot containers are rejected so deposits cannot silently discard stored contents. Empty supported storage is accepted. As before, the selected item itself is donated; food bowls/bottles are not separately returned by a reserve deposit.
+
+USAGE
+Open Nexus > Supplies. Hover an inventory stack to see every applicable reserve and its points per item. Choose a reserve, select the stack, review the accepted quantity, and confirm. Only whole items that fit remaining capacity are accepted. The same item can qualify for several reserves; a deposit consumes it once and credits only the chosen reserve.
+
+DATAPACK EXTENSION
+Rules are native item tags under data/dynastysettlements/tags/item/reserves/<category>/<points>.json. Categories are food, construction, civic and defense. Supported point tiers: 1, 2, 3, 4, 5, 6, 8, 9, 12, 16, 18, 20, 24, 27, 32, 36, 40, 48, 54, 64, 72, 108, 144.
+
+For example, an added food/4.json containing {"replace":false,"values":[{"id":"yourmod:your_meal","required":false}]} adds a four-point food. Each category also has excluded.json, which overrides all positive tiers. Lowering an existing value requires removing its membership from higher tiers; simply adding a lower tier does not override the highest match. Normal datapack reload and native tag synchronization apply. No per-tick registry scans or extra demand tracking are added.
+
+ROLLOUT
+The release manifest records current jar hashes, exact packaged entries, verification counts and whether installation occurred. The staged jar preserves unrelated installed entries byte-for-byte. Installation requires Minecraft closed and creates a fresh matching world/jar/launcher-database rollback set. In-game verification remains pending until actual deposits are observed.

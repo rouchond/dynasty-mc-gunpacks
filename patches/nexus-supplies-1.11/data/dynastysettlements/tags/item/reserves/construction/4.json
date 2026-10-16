@@ -1,0 +1,245 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#c:ingots/steel",
+      "required": false
+    },
+    {
+      "id": "#c:plates/steel",
+      "required": false
+    },
+    {
+      "id": "#minecraft:logs",
+      "required": false
+    },
+    {
+      "id": "#minecraft:logs_that_burn",
+      "required": false
+    },
+    {
+      "id": "alexscaves:pewen_log",
+      "required": false
+    },
+    {
+      "id": "alexscaves:pewen_wood",
+      "required": false
+    },
+    {
+      "id": "alexscaves:stripped_pewen_log",
+      "required": false
+    },
+    {
+      "id": "alexscaves:stripped_pewen_wood",
+      "required": false
+    },
+    {
+      "id": "alexscaves:stripped_thornwood_log",
+      "required": false
+    },
+    {
+      "id": "alexscaves:stripped_thornwood_wood",
+      "required": false
+    },
+    {
+      "id": "alexscaves:thornwood_log",
+      "required": false
+    },
+    {
+      "id": "alexscaves:thornwood_wood",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:scorched_log",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:scorched_wood",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:smoldering_scorched_log",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:smoldering_scorched_wood",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:stripped_scorched_log",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:stripped_scorched_wood",
+      "required": false
+    },
+    {
+      "id": "cookscollection:lemon_log",
+      "required": false
+    },
+    {
+      "id": "cookscollection:lemon_wood",
+      "required": false
+    },
+    {
+      "id": "create:brass_casing",
+      "required": false
+    },
+    {
+      "id": "create:railway_casing",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:avocado_log",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:avocado_wood",
+      "required": false
+    },
+    {
+      "id": "luminous_nether:stripped_withered_log",
+      "required": false
+    },
+    {
+      "id": "luminous_nether:stripped_withered_wood",
+      "required": false
+    },
+    {
+      "id": "luminous_nether:withered_log",
+      "required": false
+    },
+    {
+      "id": "luminous_nether:withered_wood",
+      "required": false
+    },
+    {
+      "id": "minecraft:bamboo_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:chiseled_quartz_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:clay",
+      "required": false
+    },
+    {
+      "id": "minecraft:cut_copper_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:exposed_cut_copper_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:oxidized_cut_copper_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:purpur_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:purpur_pillar",
+      "required": false
+    },
+    {
+      "id": "minecraft:quartz_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:quartz_bricks",
+      "required": false
+    },
+    {
+      "id": "minecraft:smooth_quartz",
+      "required": false
+    },
+    {
+      "id": "minecraft:stripped_bamboo_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_cut_copper_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_exposed_cut_copper_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_oxidized_cut_copper_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_weathered_cut_copper_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:weathered_cut_copper_stairs",
+      "required": false
+    },
+    {
+      "id": "mowziesmobs:clawed_log",
+      "required": false
+    },
+    {
+      "id": "spore:rotten_log",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:driftwood_log",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:river_log",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:river_wood",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:stripped_driftwood_log",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:stripped_river_log",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:stripped_river_wood",
+      "required": false
+    },
+    {
+      "id": "vinery:apple_log",
+      "required": false
+    },
+    {
+      "id": "vinery:apple_wood",
+      "required": false
+    },
+    {
+      "id": "vinery:dark_cherry_log",
+      "required": false
+    },
+    {
+      "id": "vinery:dark_cherry_wood",
+      "required": false
+    },
+    {
+      "id": "vinery:stackable_log",
+      "required": false
+    },
+    {
+      "id": "vinery:stripped_dark_cherry_log",
+      "required": false
+    },
+    {
+      "id": "vinery:stripped_dark_cherry_wood",
+      "required": false
+    }
+  ]
+}

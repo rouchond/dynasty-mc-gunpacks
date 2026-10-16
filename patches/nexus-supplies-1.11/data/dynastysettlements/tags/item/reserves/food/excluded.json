@@ -1,0 +1,445 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "culturaldelights:apple_cider",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:beer",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:bloody_mary",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:brandy",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:butterbeer",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:gin",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:ginger_beer",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:glow_wine",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:lemon_liqueur",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:margarita",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:mead",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:mojito",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:rum",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:tequila",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:vodka",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:whiskey",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:wine",
+      "required": false
+    },
+    {
+      "id": "ends_delight:chorus_fruit_wine",
+      "required": false
+    },
+    {
+      "id": "ends_delight:dragon_breath_and_chorus_soup",
+      "required": false
+    },
+    {
+      "id": "ends_delight:dragon_breath_soda",
+      "required": false
+    },
+    {
+      "id": "ends_delight:enderman_gristle",
+      "required": false
+    },
+    {
+      "id": "ends_delight:enderman_gristle_stew",
+      "required": false
+    },
+    {
+      "id": "ends_delight:raw_ender_sausage",
+      "required": false
+    },
+    {
+      "id": "ends_delight:shulker_omelette_mixture",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_tavern:allium_garden",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_tavern:bloody_mary",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_tavern:brandy",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_tavern:brass_heart",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_tavern:carignan",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_tavern:champagne",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_tavern:depth_charge",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_tavern:emerald",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_tavern:glowflower_brew",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_tavern:godfather",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_tavern:grasshopper",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_tavern:honey_wine",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_tavern:ice_wine",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_tavern:luminous_bride",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_tavern:madame_shexiang",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_tavern:miners_star",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_tavern:mojito",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_tavern:molotov",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_tavern:mother_snow",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_tavern:nether_special",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_tavern:plum_wine",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_tavern:polaris_sweet_white",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_tavern:red_queen",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_tavern:riesling_dry_white",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_tavern:rum",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_tavern:sakura_wine",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_tavern:sauvignon_blanc_dry_white",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_tavern:screwdriver",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_tavern:sculk_special",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_tavern:sherry",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_tavern:sunset_glow",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_tavern:sweet_berry_wine",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_tavern:vodka",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_tavern:whiskey",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_tavern:white_lady",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_tavern:wine",
+      "required": false
+    },
+    {
+      "id": "minecraft:poisonous_potato",
+      "required": false
+    },
+    {
+      "id": "minecraft:pufferfish",
+      "required": false
+    },
+    {
+      "id": "minecraft:rotten_flesh",
+      "required": false
+    },
+    {
+      "id": "minecraft:spider_eye",
+      "required": false
+    },
+    {
+      "id": "minecraft:suspicious_stew",
+      "required": false
+    },
+    {
+      "id": "vinery:aegis_wine",
+      "required": false
+    },
+    {
+      "id": "vinery:apple_cider",
+      "required": false
+    },
+    {
+      "id": "vinery:apple_wine",
+      "required": false
+    },
+    {
+      "id": "vinery:bolvar_wine",
+      "required": false
+    },
+    {
+      "id": "vinery:bottle_mojang_noir",
+      "required": false
+    },
+    {
+      "id": "vinery:chenet_wine",
+      "required": false
+    },
+    {
+      "id": "vinery:cherry_wine",
+      "required": false
+    },
+    {
+      "id": "vinery:chorus_wine",
+      "required": false
+    },
+    {
+      "id": "vinery:clark_wine",
+      "required": false
+    },
+    {
+      "id": "vinery:creepers_crush",
+      "required": false
+    },
+    {
+      "id": "vinery:cristel_wine",
+      "required": false
+    },
+    {
+      "id": "vinery:eiswein",
+      "required": false
+    },
+    {
+      "id": "vinery:glowing_wine",
+      "required": false
+    },
+    {
+      "id": "vinery:jellie_wine",
+      "required": false
+    },
+    {
+      "id": "vinery:jo_special_mixture",
+      "required": false
+    },
+    {
+      "id": "vinery:kelp_cider",
+      "required": false
+    },
+    {
+      "id": "vinery:lilitu_wine",
+      "required": false
+    },
+    {
+      "id": "vinery:magnetic_wine",
+      "required": false
+    },
+    {
+      "id": "vinery:mead",
+      "required": false
+    },
+    {
+      "id": "vinery:mellohi_wine",
+      "required": false
+    },
+    {
+      "id": "vinery:noir_wine",
+      "required": false
+    },
+    {
+      "id": "vinery:red_wine",
+      "required": false
+    },
+    {
+      "id": "vinery:solaris_wine",
+      "required": false
+    },
+    {
+      "id": "vinery:stal_wine",
+      "required": false
+    },
+    {
+      "id": "vinery:strad_wine",
+      "required": false
+    },
+    {
+      "id": "vinery:villagers_fright",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:burgundy",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:burgundy_bottle",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:champagne",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:champagne_bottle",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:dassai",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:full_moons_eve",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:hakutsuru",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:kappa_village",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:kiku",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:mead",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:mio",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:red_wine",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:red_wine_bottle",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:suigei",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:tengu_tango",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:van_allen",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:van_allen_bottle",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:white_wine",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:white_wine_bottle",
+      "required": false
+    }
+  ]
+}

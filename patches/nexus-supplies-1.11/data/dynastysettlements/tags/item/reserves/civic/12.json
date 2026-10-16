@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "create:mechanical_arm",
+      "required": false
+    },
+    {
+      "id": "create:rotation_speed_controller",
+      "required": false
+    },
+    {
+      "id": "tfmg:steel_mechanism",
+      "required": false
+    }
+  ]
+}

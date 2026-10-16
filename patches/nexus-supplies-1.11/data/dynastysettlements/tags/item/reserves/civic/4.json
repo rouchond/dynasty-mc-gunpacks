@@ -1,0 +1,193 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#c:ingots/electrum",
+      "required": false
+    },
+    {
+      "id": "#c:ingots/gold",
+      "required": false
+    },
+    {
+      "id": "#c:ingots/silver",
+      "required": false
+    },
+    {
+      "id": "#c:ingots/steel",
+      "required": false
+    },
+    {
+      "id": "#c:plates/brass",
+      "required": false
+    },
+    {
+      "id": "#c:plates/electrum",
+      "required": false
+    },
+    {
+      "id": "#c:plates/gold",
+      "required": false
+    },
+    {
+      "id": "#c:plates/steel",
+      "required": false
+    },
+    {
+      "id": "#c:rods/steel",
+      "required": false
+    },
+    {
+      "id": "create:attribute_filter",
+      "required": false
+    },
+    {
+      "id": "create:basin",
+      "required": false
+    },
+    {
+      "id": "create:belt_connector",
+      "required": false
+    },
+    {
+      "id": "create:brass_funnel",
+      "required": false
+    },
+    {
+      "id": "create:brass_sheet",
+      "required": false
+    },
+    {
+      "id": "create:brass_tunnel",
+      "required": false
+    },
+    {
+      "id": "create:clutch",
+      "required": false
+    },
+    {
+      "id": "create:content_observer",
+      "required": false
+    },
+    {
+      "id": "create:fluid_tank",
+      "required": false
+    },
+    {
+      "id": "create:gearbox",
+      "required": false
+    },
+    {
+      "id": "create:gearshift",
+      "required": false
+    },
+    {
+      "id": "create:large_cogwheel",
+      "required": false
+    },
+    {
+      "id": "create:mechanical_drill",
+      "required": false
+    },
+    {
+      "id": "create:mechanical_harvester",
+      "required": false
+    },
+    {
+      "id": "create:mechanical_pump",
+      "required": false
+    },
+    {
+      "id": "create:mechanical_saw",
+      "required": false
+    },
+    {
+      "id": "create:portable_fluid_interface",
+      "required": false
+    },
+    {
+      "id": "create:portable_storage_interface",
+      "required": false
+    },
+    {
+      "id": "create:redstone_link",
+      "required": false
+    },
+    {
+      "id": "create:smart_chute",
+      "required": false
+    },
+    {
+      "id": "create:smart_fluid_pipe",
+      "required": false
+    },
+    {
+      "id": "create:spout",
+      "required": false
+    },
+    {
+      "id": "create:vertical_gearbox",
+      "required": false
+    },
+    {
+      "id": "create:water_wheel",
+      "required": false
+    },
+    {
+      "id": "minecraft:barrel",
+      "required": false
+    },
+    {
+      "id": "minecraft:blast_furnace",
+      "required": false
+    },
+    {
+      "id": "minecraft:chest",
+      "required": false
+    },
+    {
+      "id": "minecraft:crafting_table",
+      "required": false
+    },
+    {
+      "id": "minecraft:furnace",
+      "required": false
+    },
+    {
+      "id": "minecraft:glowstone",
+      "required": false
+    },
+    {
+      "id": "minecraft:glowstone_dust",
+      "required": false
+    },
+    {
+      "id": "minecraft:gold_ingot",
+      "required": false
+    },
+    {
+      "id": "minecraft:hopper",
+      "required": false
+    },
+    {
+      "id": "minecraft:sea_lantern",
+      "required": false
+    },
+    {
+      "id": "minecraft:smoker",
+      "required": false
+    },
+    {
+      "id": "tfmg:aluminum_pipe",
+      "required": false
+    },
+    {
+      "id": "tfmg:heavy_plate",
+      "required": false
+    },
+    {
+      "id": "tfmg:steel_pipe",
+      "required": false
+    }
+  ]
+}

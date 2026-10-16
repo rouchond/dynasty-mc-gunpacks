@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#c:ingots/brass",
+      "required": false
+    },
+    {
+      "id": "#c:ingots/constantan",
+      "required": false
+    },
+    {
+      "id": "minecraft:book",
+      "required": false
+    }
+  ]
+}

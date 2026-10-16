@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "farmersdelight:stuffed_pumpkin_block",
+      "required": false
+    }
+  ]
+}

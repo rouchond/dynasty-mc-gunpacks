@@ -1,0 +1,165 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "culturaldelights:eggplant_parmesan",
+      "required": false
+    },
+    {
+      "id": "ends_delight:dragon_leg_with_sauce",
+      "required": false
+    },
+    {
+      "id": "ends_delight:dragon_meat_stew",
+      "required": false
+    },
+    {
+      "id": "ends_delight:end_barbecue_stick",
+      "required": false
+    },
+    {
+      "id": "ends_delight:ender_bamboo_rice",
+      "required": false
+    },
+    {
+      "id": "ends_delight:ender_noodle",
+      "required": false
+    },
+    {
+      "id": "ends_delight:fried_dragon_egg",
+      "required": false
+    },
+    {
+      "id": "ends_delight:grilled_shulker",
+      "required": false
+    },
+    {
+      "id": "ends_delight:steamed_dragon_egg",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:honey_glazed_ham",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:roast_chicken",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:shepherds_pie",
+      "required": false
+    },
+    {
+      "id": "fruitsdelight:fig_pudding",
+      "required": false
+    },
+    {
+      "id": "fruitsdelight:fig_pudding_slice",
+      "required": false
+    },
+    {
+      "id": "korean_food:buldak_bokkeum_myeon",
+      "required": false
+    },
+    {
+      "id": "korean_food:rich_doenjang_jjigae",
+      "required": false
+    },
+    {
+      "id": "korean_food:yangnyeom_chicken",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:california_roll",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:california_roll_slice",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:cumberland_loin",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:imitation_bear_paw",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:pastitsio",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:rainbow_futomaki",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:rainbow_futomaki_slice",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:rainbow_roll",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:rainbow_roll_slice",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:roe_california_roll",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:roe_california_roll_slice",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:salmon_futomaki",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:salmon_futomaki_slice",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:salmon_lover_roll",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:salmon_lover_roll_slice",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:seven_colored_yokan",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:tarte_lune",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:tarte_lune_slice",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:tomato_sauce_cod",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:tuscan_salmon",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:udumbara_cake",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:volcano_roll",
+      "required": false
+    },
+    {
+      "id": "youkaisfeasts:volcano_roll_slice",
+      "required": false
+    }
+  ]
+}

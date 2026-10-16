@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "farmersdelight:rice_bag",
+      "required": false
+    }
+  ]
+}

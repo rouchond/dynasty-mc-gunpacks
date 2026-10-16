@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:diamond_chestplate",
+      "required": false
+    },
+    {
+      "id": "minecraft:netherite_axe",
+      "required": false
+    },
+    {
+      "id": "minecraft:netherite_boots",
+      "required": false
+    },
+    {
+      "id": "minecraft:netherite_helmet",
+      "required": false
+    },
+    {
+      "id": "minecraft:netherite_sword",
+      "required": false
+    }
+  ]
+}

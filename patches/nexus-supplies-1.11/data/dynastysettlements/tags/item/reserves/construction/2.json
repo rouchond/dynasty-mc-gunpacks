@@ -1,0 +1,1417 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#c:concretes",
+      "required": false
+    },
+    {
+      "id": "#c:glass",
+      "required": false
+    },
+    {
+      "id": "#c:glass_blocks",
+      "required": false
+    },
+    {
+      "id": "#c:ingots/aluminum",
+      "required": false
+    },
+    {
+      "id": "#c:ingots/brass",
+      "required": false
+    },
+    {
+      "id": "#c:ingots/iron",
+      "required": false
+    },
+    {
+      "id": "#c:plates/iron",
+      "required": false
+    },
+    {
+      "id": "#minecraft:terracotta",
+      "required": false
+    },
+    {
+      "id": "#minecraft:wool",
+      "required": false
+    },
+    {
+      "id": "alexscaves:abyssmarine_bricks",
+      "required": false
+    },
+    {
+      "id": "alexscaves:abyssmarine_tiles",
+      "required": false
+    },
+    {
+      "id": "alexscaves:depth_glass",
+      "required": false
+    },
+    {
+      "id": "alexscaves:frosted_gingerbread_bricks",
+      "required": false
+    },
+    {
+      "id": "alexscaves:galena_bricks",
+      "required": false
+    },
+    {
+      "id": "alexscaves:gingerbread_bricks",
+      "required": false
+    },
+    {
+      "id": "alexscaves:guanostone_bricks",
+      "required": false
+    },
+    {
+      "id": "alexscaves:guanostone_tiles",
+      "required": false
+    },
+    {
+      "id": "alexscaves:radrock_bricks",
+      "required": false
+    },
+    {
+      "id": "alexscaves:sugar_glass",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:dark_stained_glass",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:green_stained_glass",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:orange_stained_glass",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:purple_stained_glass",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:scarlet_stained_glass",
+      "required": false
+    },
+    {
+      "id": "create:andesite_casing",
+      "required": false
+    },
+    {
+      "id": "create:cardboard_block",
+      "required": false
+    },
+    {
+      "id": "create:copper_casing",
+      "required": false
+    },
+    {
+      "id": "create:copper_tiles",
+      "required": false
+    },
+    {
+      "id": "create:cut_andesite_bricks",
+      "required": false
+    },
+    {
+      "id": "create:cut_asurine",
+      "required": false
+    },
+    {
+      "id": "create:cut_asurine_bricks",
+      "required": false
+    },
+    {
+      "id": "create:cut_calcite_bricks",
+      "required": false
+    },
+    {
+      "id": "create:cut_crimsite",
+      "required": false
+    },
+    {
+      "id": "create:cut_crimsite_bricks",
+      "required": false
+    },
+    {
+      "id": "create:cut_deepslate_bricks",
+      "required": false
+    },
+    {
+      "id": "create:cut_diorite_bricks",
+      "required": false
+    },
+    {
+      "id": "create:cut_dripstone_bricks",
+      "required": false
+    },
+    {
+      "id": "create:cut_granite_bricks",
+      "required": false
+    },
+    {
+      "id": "create:cut_limestone",
+      "required": false
+    },
+    {
+      "id": "create:cut_limestone_bricks",
+      "required": false
+    },
+    {
+      "id": "create:cut_ochrum",
+      "required": false
+    },
+    {
+      "id": "create:cut_ochrum_bricks",
+      "required": false
+    },
+    {
+      "id": "create:cut_scorchia",
+      "required": false
+    },
+    {
+      "id": "create:cut_scorchia_bricks",
+      "required": false
+    },
+    {
+      "id": "create:cut_scoria",
+      "required": false
+    },
+    {
+      "id": "create:cut_scoria_bricks",
+      "required": false
+    },
+    {
+      "id": "create:cut_tuff_bricks",
+      "required": false
+    },
+    {
+      "id": "create:cut_veridium",
+      "required": false
+    },
+    {
+      "id": "create:cut_veridium_bricks",
+      "required": false
+    },
+    {
+      "id": "create:exposed_copper_tiles",
+      "required": false
+    },
+    {
+      "id": "create:framed_glass",
+      "required": false
+    },
+    {
+      "id": "create:horizontal_framed_glass",
+      "required": false
+    },
+    {
+      "id": "create:oxidized_copper_tiles",
+      "required": false
+    },
+    {
+      "id": "create:polished_cut_asurine",
+      "required": false
+    },
+    {
+      "id": "create:polished_cut_crimsite",
+      "required": false
+    },
+    {
+      "id": "create:polished_cut_limestone",
+      "required": false
+    },
+    {
+      "id": "create:polished_cut_ochrum",
+      "required": false
+    },
+    {
+      "id": "create:polished_cut_scorchia",
+      "required": false
+    },
+    {
+      "id": "create:polished_cut_scoria",
+      "required": false
+    },
+    {
+      "id": "create:polished_cut_veridium",
+      "required": false
+    },
+    {
+      "id": "create:rose_quartz_tiles",
+      "required": false
+    },
+    {
+      "id": "create:small_andesite_bricks",
+      "required": false
+    },
+    {
+      "id": "create:small_asurine_bricks",
+      "required": false
+    },
+    {
+      "id": "create:small_calcite_bricks",
+      "required": false
+    },
+    {
+      "id": "create:small_crimsite_bricks",
+      "required": false
+    },
+    {
+      "id": "create:small_deepslate_bricks",
+      "required": false
+    },
+    {
+      "id": "create:small_diorite_bricks",
+      "required": false
+    },
+    {
+      "id": "create:small_dripstone_bricks",
+      "required": false
+    },
+    {
+      "id": "create:small_granite_bricks",
+      "required": false
+    },
+    {
+      "id": "create:small_limestone_bricks",
+      "required": false
+    },
+    {
+      "id": "create:small_ochrum_bricks",
+      "required": false
+    },
+    {
+      "id": "create:small_rose_quartz_tiles",
+      "required": false
+    },
+    {
+      "id": "create:small_scorchia_bricks",
+      "required": false
+    },
+    {
+      "id": "create:small_scoria_bricks",
+      "required": false
+    },
+    {
+      "id": "create:small_tuff_bricks",
+      "required": false
+    },
+    {
+      "id": "create:small_veridium_bricks",
+      "required": false
+    },
+    {
+      "id": "create:tiled_glass",
+      "required": false
+    },
+    {
+      "id": "create:vertical_framed_glass",
+      "required": false
+    },
+    {
+      "id": "create:waxed_copper_tiles",
+      "required": false
+    },
+    {
+      "id": "create:waxed_exposed_copper_tiles",
+      "required": false
+    },
+    {
+      "id": "create:waxed_oxidized_copper_tiles",
+      "required": false
+    },
+    {
+      "id": "create:waxed_weathered_copper_tiles",
+      "required": false
+    },
+    {
+      "id": "create:weathered_copper_tiles",
+      "required": false
+    },
+    {
+      "id": "dndecor:amber_small_deepslate_tiles",
+      "required": false
+    },
+    {
+      "id": "dndecor:aqua_small_deepslate_tiles",
+      "required": false
+    },
+    {
+      "id": "dndecor:beige_small_deepslate_tiles",
+      "required": false
+    },
+    {
+      "id": "dndecor:black_small_deepslate_tiles",
+      "required": false
+    },
+    {
+      "id": "dndecor:blue_small_deepslate_tiles",
+      "required": false
+    },
+    {
+      "id": "dndecor:brown_small_deepslate_tiles",
+      "required": false
+    },
+    {
+      "id": "dndecor:coral_small_deepslate_tiles",
+      "required": false
+    },
+    {
+      "id": "dndecor:cut_amethyst_bricks",
+      "required": false
+    },
+    {
+      "id": "dndecor:cut_basalt_bricks",
+      "required": false
+    },
+    {
+      "id": "dndecor:cut_blackstone_bricks",
+      "required": false
+    },
+    {
+      "id": "dndecor:cut_dolomite_bricks",
+      "required": false
+    },
+    {
+      "id": "dndecor:cut_gabbro_bricks",
+      "required": false
+    },
+    {
+      "id": "dndecor:cut_netherrack_bricks",
+      "required": false
+    },
+    {
+      "id": "dndecor:cut_packed_mud_bricks",
+      "required": false
+    },
+    {
+      "id": "dndecor:cut_stone_bricks",
+      "required": false
+    },
+    {
+      "id": "dndecor:cut_weathered_limestone_bricks",
+      "required": false
+    },
+    {
+      "id": "dndecor:cyan_small_deepslate_tiles",
+      "required": false
+    },
+    {
+      "id": "dndecor:dark_metal_bricks",
+      "required": false
+    },
+    {
+      "id": "dndecor:forest_small_deepslate_tiles",
+      "required": false
+    },
+    {
+      "id": "dndecor:ginger_small_deepslate_tiles",
+      "required": false
+    },
+    {
+      "id": "dndecor:gray_small_deepslate_tiles",
+      "required": false
+    },
+    {
+      "id": "dndecor:green_small_deepslate_tiles",
+      "required": false
+    },
+    {
+      "id": "dndecor:indigo_small_deepslate_tiles",
+      "required": false
+    },
+    {
+      "id": "dndecor:light_blue_small_deepslate_tiles",
+      "required": false
+    },
+    {
+      "id": "dndecor:light_gray_small_deepslate_tiles",
+      "required": false
+    },
+    {
+      "id": "dndecor:lime_small_deepslate_tiles",
+      "required": false
+    },
+    {
+      "id": "dndecor:magenta_small_deepslate_tiles",
+      "required": false
+    },
+    {
+      "id": "dndecor:maroon_small_deepslate_tiles",
+      "required": false
+    },
+    {
+      "id": "dndecor:mint_small_deepslate_tiles",
+      "required": false
+    },
+    {
+      "id": "dndecor:navy_small_deepslate_tiles",
+      "required": false
+    },
+    {
+      "id": "dndecor:olive_small_deepslate_tiles",
+      "required": false
+    },
+    {
+      "id": "dndecor:orange_small_deepslate_tiles",
+      "required": false
+    },
+    {
+      "id": "dndecor:ornate_iron_glass",
+      "required": false
+    },
+    {
+      "id": "dndecor:pink_small_deepslate_tiles",
+      "required": false
+    },
+    {
+      "id": "dndecor:purple_small_deepslate_tiles",
+      "required": false
+    },
+    {
+      "id": "dndecor:red_small_deepslate_tiles",
+      "required": false
+    },
+    {
+      "id": "dndecor:rose_small_deepslate_tiles",
+      "required": false
+    },
+    {
+      "id": "dndecor:slate_small_deepslate_tiles",
+      "required": false
+    },
+    {
+      "id": "dndecor:small_amethyst_bricks",
+      "required": false
+    },
+    {
+      "id": "dndecor:small_basalt_bricks",
+      "required": false
+    },
+    {
+      "id": "dndecor:small_blackstone_bricks",
+      "required": false
+    },
+    {
+      "id": "dndecor:small_deepslate_tiles",
+      "required": false
+    },
+    {
+      "id": "dndecor:small_dolomite_bricks",
+      "required": false
+    },
+    {
+      "id": "dndecor:small_gabbro_bricks",
+      "required": false
+    },
+    {
+      "id": "dndecor:small_netherrack_bricks",
+      "required": false
+    },
+    {
+      "id": "dndecor:small_packed_mud_bricks",
+      "required": false
+    },
+    {
+      "id": "dndecor:small_stone_bricks",
+      "required": false
+    },
+    {
+      "id": "dndecor:small_weathered_limestone_bricks",
+      "required": false
+    },
+    {
+      "id": "dndecor:tan_small_deepslate_tiles",
+      "required": false
+    },
+    {
+      "id": "dndecor:teal_small_deepslate_tiles",
+      "required": false
+    },
+    {
+      "id": "dndecor:verdant_small_deepslate_tiles",
+      "required": false
+    },
+    {
+      "id": "dndecor:white_small_deepslate_tiles",
+      "required": false
+    },
+    {
+      "id": "dndecor:yellow_small_deepslate_tiles",
+      "required": false
+    },
+    {
+      "id": "dndecor:zinc_bricks",
+      "required": false
+    },
+    {
+      "id": "dndecor:zinc_checker_tiles",
+      "required": false
+    },
+    {
+      "id": "luminous_nether:ash_bricks",
+      "required": false
+    },
+    {
+      "id": "luminous_nether:chiseled_fungirrack_bricks",
+      "required": false
+    },
+    {
+      "id": "luminous_nether:chiseled_heavy_nether_bricks",
+      "required": false
+    },
+    {
+      "id": "luminous_nether:cracked_ash_bricks",
+      "required": false
+    },
+    {
+      "id": "luminous_nether:decorative_ash_bricks",
+      "required": false
+    },
+    {
+      "id": "luminous_nether:decorative_heavy_nether_bricks",
+      "required": false
+    },
+    {
+      "id": "luminous_nether:driprot_bricks",
+      "required": false
+    },
+    {
+      "id": "luminous_nether:glowing_chiseled_heavy_nether_bricks",
+      "required": false
+    },
+    {
+      "id": "luminous_nether:heavy_ash_bricks",
+      "required": false
+    },
+    {
+      "id": "luminous_nether:heavy_nether_bricks",
+      "required": false
+    },
+    {
+      "id": "mcwwindows:black_mosaic_glass",
+      "required": false
+    },
+    {
+      "id": "mcwwindows:blue_mosaic_glass",
+      "required": false
+    },
+    {
+      "id": "mcwwindows:brown_mosaic_glass",
+      "required": false
+    },
+    {
+      "id": "mcwwindows:cyan_mosaic_glass",
+      "required": false
+    },
+    {
+      "id": "mcwwindows:gray_mosaic_glass",
+      "required": false
+    },
+    {
+      "id": "mcwwindows:green_mosaic_glass",
+      "required": false
+    },
+    {
+      "id": "mcwwindows:light_blue_mosaic_glass",
+      "required": false
+    },
+    {
+      "id": "mcwwindows:light_gray_mosaic_glass",
+      "required": false
+    },
+    {
+      "id": "mcwwindows:lime_mosaic_glass",
+      "required": false
+    },
+    {
+      "id": "mcwwindows:magenta_mosaic_glass",
+      "required": false
+    },
+    {
+      "id": "mcwwindows:one_way_glass",
+      "required": false
+    },
+    {
+      "id": "mcwwindows:orange_mosaic_glass",
+      "required": false
+    },
+    {
+      "id": "mcwwindows:pink_mosaic_glass",
+      "required": false
+    },
+    {
+      "id": "mcwwindows:purple_mosaic_glass",
+      "required": false
+    },
+    {
+      "id": "mcwwindows:red_mosaic_glass",
+      "required": false
+    },
+    {
+      "id": "mcwwindows:white_mosaic_glass",
+      "required": false
+    },
+    {
+      "id": "mcwwindows:yellow_mosaic_glass",
+      "required": false
+    },
+    {
+      "id": "minecraft:black_concrete",
+      "required": false
+    },
+    {
+      "id": "minecraft:black_concrete_powder",
+      "required": false
+    },
+    {
+      "id": "minecraft:black_glazed_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:black_stained_glass",
+      "required": false
+    },
+    {
+      "id": "minecraft:black_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:blue_concrete",
+      "required": false
+    },
+    {
+      "id": "minecraft:blue_concrete_powder",
+      "required": false
+    },
+    {
+      "id": "minecraft:blue_glazed_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:blue_stained_glass",
+      "required": false
+    },
+    {
+      "id": "minecraft:blue_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:bricks",
+      "required": false
+    },
+    {
+      "id": "minecraft:brown_concrete",
+      "required": false
+    },
+    {
+      "id": "minecraft:brown_concrete_powder",
+      "required": false
+    },
+    {
+      "id": "minecraft:brown_glazed_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:brown_stained_glass",
+      "required": false
+    },
+    {
+      "id": "minecraft:brown_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:cyan_concrete",
+      "required": false
+    },
+    {
+      "id": "minecraft:cyan_concrete_powder",
+      "required": false
+    },
+    {
+      "id": "minecraft:cyan_glazed_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:cyan_stained_glass",
+      "required": false
+    },
+    {
+      "id": "minecraft:cyan_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:dark_prismarine",
+      "required": false
+    },
+    {
+      "id": "minecraft:deepslate_tiles",
+      "required": false
+    },
+    {
+      "id": "minecraft:end_stone_bricks",
+      "required": false
+    },
+    {
+      "id": "minecraft:glass",
+      "required": false
+    },
+    {
+      "id": "minecraft:gray_concrete",
+      "required": false
+    },
+    {
+      "id": "minecraft:gray_concrete_powder",
+      "required": false
+    },
+    {
+      "id": "minecraft:gray_glazed_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:gray_stained_glass",
+      "required": false
+    },
+    {
+      "id": "minecraft:gray_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:green_concrete",
+      "required": false
+    },
+    {
+      "id": "minecraft:green_concrete_powder",
+      "required": false
+    },
+    {
+      "id": "minecraft:green_glazed_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:green_stained_glass",
+      "required": false
+    },
+    {
+      "id": "minecraft:green_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_blue_concrete",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_blue_concrete_powder",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_blue_glazed_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_blue_stained_glass",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_blue_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_gray_concrete",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_gray_concrete_powder",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_gray_glazed_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_gray_stained_glass",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_gray_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:lime_concrete",
+      "required": false
+    },
+    {
+      "id": "minecraft:lime_concrete_powder",
+      "required": false
+    },
+    {
+      "id": "minecraft:lime_glazed_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:lime_stained_glass",
+      "required": false
+    },
+    {
+      "id": "minecraft:lime_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:magenta_concrete",
+      "required": false
+    },
+    {
+      "id": "minecraft:magenta_concrete_powder",
+      "required": false
+    },
+    {
+      "id": "minecraft:magenta_glazed_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:magenta_stained_glass",
+      "required": false
+    },
+    {
+      "id": "minecraft:magenta_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:mud_bricks",
+      "required": false
+    },
+    {
+      "id": "minecraft:nether_bricks",
+      "required": false
+    },
+    {
+      "id": "minecraft:orange_concrete",
+      "required": false
+    },
+    {
+      "id": "minecraft:orange_concrete_powder",
+      "required": false
+    },
+    {
+      "id": "minecraft:orange_glazed_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:orange_stained_glass",
+      "required": false
+    },
+    {
+      "id": "minecraft:orange_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:pink_concrete",
+      "required": false
+    },
+    {
+      "id": "minecraft:pink_concrete_powder",
+      "required": false
+    },
+    {
+      "id": "minecraft:pink_glazed_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:pink_stained_glass",
+      "required": false
+    },
+    {
+      "id": "minecraft:pink_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_andesite",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_blackstone",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_blackstone_bricks",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_deepslate",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_diorite",
+      "required": false
+    },
+    {
+      "id": "minecraft:polished_granite",
+      "required": false
+    },
+    {
+      "id": "minecraft:prismarine",
+      "required": false
+    },
+    {
+      "id": "minecraft:prismarine_bricks",
+      "required": false
+    },
+    {
+      "id": "minecraft:purple_concrete",
+      "required": false
+    },
+    {
+      "id": "minecraft:purple_concrete_powder",
+      "required": false
+    },
+    {
+      "id": "minecraft:purple_glazed_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:purple_stained_glass",
+      "required": false
+    },
+    {
+      "id": "minecraft:purple_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_concrete",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_concrete_powder",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_glazed_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_nether_bricks",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_stained_glass",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:smooth_red_sandstone",
+      "required": false
+    },
+    {
+      "id": "minecraft:smooth_sandstone",
+      "required": false
+    },
+    {
+      "id": "minecraft:smooth_stone",
+      "required": false
+    },
+    {
+      "id": "minecraft:terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:white_concrete",
+      "required": false
+    },
+    {
+      "id": "minecraft:white_concrete_powder",
+      "required": false
+    },
+    {
+      "id": "minecraft:white_glazed_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:white_stained_glass",
+      "required": false
+    },
+    {
+      "id": "minecraft:white_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:yellow_concrete",
+      "required": false
+    },
+    {
+      "id": "minecraft:yellow_concrete_powder",
+      "required": false
+    },
+    {
+      "id": "minecraft:yellow_glazed_terracotta",
+      "required": false
+    },
+    {
+      "id": "minecraft:yellow_stained_glass",
+      "required": false
+    },
+    {
+      "id": "minecraft:yellow_terracotta",
+      "required": false
+    },
+    {
+      "id": "netherexp:blue_mixed_nether_bricks",
+      "required": false
+    },
+    {
+      "id": "netherexp:blue_nether_bricks",
+      "required": false
+    },
+    {
+      "id": "netherexp:chiseled_soul_slate_bricks",
+      "required": false
+    },
+    {
+      "id": "netherexp:chiseled_soul_slate_tiles",
+      "required": false
+    },
+    {
+      "id": "netherexp:cracked_quartz_bricks",
+      "required": false
+    },
+    {
+      "id": "netherexp:cracked_soul_slate_bricks",
+      "required": false
+    },
+    {
+      "id": "netherexp:discernment_glass",
+      "required": false
+    },
+    {
+      "id": "netherexp:etched_soul_slate_bricks",
+      "required": false
+    },
+    {
+      "id": "netherexp:etched_soul_slate_tiles",
+      "required": false
+    },
+    {
+      "id": "netherexp:netherrack_bricks",
+      "required": false
+    },
+    {
+      "id": "netherexp:netherrack_tiles",
+      "required": false
+    },
+    {
+      "id": "netherexp:polished_basalt_bricks",
+      "required": false
+    },
+    {
+      "id": "netherexp:red_mixed_nether_bricks",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_glass",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_slate_bricks",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_slate_tiles",
+      "required": false
+    },
+    {
+      "id": "netherexp:twisting_polished_blackstone_bricks",
+      "required": false
+    },
+    {
+      "id": "netherexp:waxen_soul_glass",
+      "required": false
+    },
+    {
+      "id": "netherexp:weeping_polished_blackstone_bricks",
+      "required": false
+    },
+    {
+      "id": "netherexp:yellow_mixed_nether_bricks",
+      "required": false
+    },
+    {
+      "id": "netherexp:yellow_nether_bricks",
+      "required": false
+    },
+    {
+      "id": "spore:infested_bricks",
+      "required": false
+    },
+    {
+      "id": "spore:infested_stone_bricks",
+      "required": false
+    },
+    {
+      "id": "tfmg:asphalt",
+      "required": false
+    },
+    {
+      "id": "tfmg:black_concrete",
+      "required": false
+    },
+    {
+      "id": "tfmg:black_rebar_concrete",
+      "required": false
+    },
+    {
+      "id": "tfmg:blue_concrete",
+      "required": false
+    },
+    {
+      "id": "tfmg:blue_rebar_concrete",
+      "required": false
+    },
+    {
+      "id": "tfmg:brown_concrete",
+      "required": false
+    },
+    {
+      "id": "tfmg:brown_rebar_concrete",
+      "required": false
+    },
+    {
+      "id": "tfmg:concrete",
+      "required": false
+    },
+    {
+      "id": "tfmg:cut_bauxite_bricks",
+      "required": false
+    },
+    {
+      "id": "tfmg:cut_galena_bricks",
+      "required": false
+    },
+    {
+      "id": "tfmg:cyan_concrete",
+      "required": false
+    },
+    {
+      "id": "tfmg:cyan_rebar_concrete",
+      "required": false
+    },
+    {
+      "id": "tfmg:fireproof_bricks",
+      "required": false
+    },
+    {
+      "id": "tfmg:gray_concrete",
+      "required": false
+    },
+    {
+      "id": "tfmg:gray_rebar_concrete",
+      "required": false
+    },
+    {
+      "id": "tfmg:green_concrete",
+      "required": false
+    },
+    {
+      "id": "tfmg:green_rebar_concrete",
+      "required": false
+    },
+    {
+      "id": "tfmg:light_blue_concrete",
+      "required": false
+    },
+    {
+      "id": "tfmg:light_blue_rebar_concrete",
+      "required": false
+    },
+    {
+      "id": "tfmg:light_gray_concrete",
+      "required": false
+    },
+    {
+      "id": "tfmg:light_gray_rebar_concrete",
+      "required": false
+    },
+    {
+      "id": "tfmg:lime_concrete",
+      "required": false
+    },
+    {
+      "id": "tfmg:lime_rebar_concrete",
+      "required": false
+    },
+    {
+      "id": "tfmg:magenta_concrete",
+      "required": false
+    },
+    {
+      "id": "tfmg:magenta_rebar_concrete",
+      "required": false
+    },
+    {
+      "id": "tfmg:orange_concrete",
+      "required": false
+    },
+    {
+      "id": "tfmg:orange_rebar_concrete",
+      "required": false
+    },
+    {
+      "id": "tfmg:pink_concrete",
+      "required": false
+    },
+    {
+      "id": "tfmg:pink_rebar_concrete",
+      "required": false
+    },
+    {
+      "id": "tfmg:purple_concrete",
+      "required": false
+    },
+    {
+      "id": "tfmg:purple_rebar_concrete",
+      "required": false
+    },
+    {
+      "id": "tfmg:rebar_concrete",
+      "required": false
+    },
+    {
+      "id": "tfmg:red_concrete",
+      "required": false
+    },
+    {
+      "id": "tfmg:red_rebar_concrete",
+      "required": false
+    },
+    {
+      "id": "tfmg:slag_bricks",
+      "required": false
+    },
+    {
+      "id": "tfmg:small_bauxite_bricks",
+      "required": false
+    },
+    {
+      "id": "tfmg:small_galena_bricks",
+      "required": false
+    },
+    {
+      "id": "tfmg:white_concrete",
+      "required": false
+    },
+    {
+      "id": "tfmg:white_rebar_concrete",
+      "required": false
+    },
+    {
+      "id": "tfmg:yellow_concrete",
+      "required": false
+    },
+    {
+      "id": "tfmg:yellow_rebar_concrete",
+      "required": false
+    },
+    {
+      "id": "unusualend:chiseled_glass",
+      "required": false
+    },
+    {
+      "id": "unusualend:chiseled_gloopstone_bricks",
+      "required": false
+    },
+    {
+      "id": "unusualend:chiseled_polished_purpur_tiles",
+      "required": false
+    },
+    {
+      "id": "unusualend:enderblob_moult_bricks",
+      "required": false
+    },
+    {
+      "id": "unusualend:endstone_tiles",
+      "required": false
+    },
+    {
+      "id": "unusualend:gloopslate_bricks",
+      "required": false
+    },
+    {
+      "id": "unusualend:gloopstone_bricks",
+      "required": false
+    },
+    {
+      "id": "unusualend:gloopstone_tiles",
+      "required": false
+    },
+    {
+      "id": "unusualend:gneiss_bricks",
+      "required": false
+    },
+    {
+      "id": "unusualend:infused_end_stone_tiles",
+      "required": false
+    },
+    {
+      "id": "unusualend:polished_citrine_tiles",
+      "required": false
+    },
+    {
+      "id": "unusualend:polished_purpur_bricks",
+      "required": false
+    },
+    {
+      "id": "unusualend:polished_purpur_tiles",
+      "required": false
+    },
+    {
+      "id": "unusualend:shiny_crystal_bricks",
+      "required": false
+    },
+    {
+      "id": "unusualend:shiny_crystal_tiles",
+      "required": false
+    },
+    {
+      "id": "unusualend:warped_stone_bricks",
+      "required": false
+    },
+    {
+      "id": "unusualend:warped_stone_tiles",
+      "required": false
+    },
+    {
+      "id": "unusualend:weak_end_stone_bricks",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:chiseled_tooth_bricks",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:kelpy_cobblestone_bricks",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:kelpy_cobblestone_tiles",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:kelpy_stone_bricks",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:tooth_bricks",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:tooth_tiles",
+      "required": false
+    }
+  ]
+}

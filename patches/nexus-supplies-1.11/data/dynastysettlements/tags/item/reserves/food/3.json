@@ -1,0 +1,81 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#c:foods/cooked_egg",
+      "required": false
+    },
+    {
+      "id": "#c:foods/cooked_eggs",
+      "required": false
+    },
+    {
+      "id": "#c:foods/cooked_fish",
+      "required": false
+    },
+    {
+      "id": "#c:foods/cooked_meat",
+      "required": false
+    },
+    {
+      "id": "#c:foods/cooked_meats",
+      "required": false
+    },
+    {
+      "id": "#c:foods/roasted_dragon_meat",
+      "required": false
+    },
+    {
+      "id": "#c:foods/roasted_shulker_meat",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:cooked_bacon",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:cooked_chicken_cuts",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:cooked_cod_slice",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:cooked_salmon_slice",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:smoked_ham",
+      "required": false
+    },
+    {
+      "id": "minecraft:cooked_beef",
+      "required": false
+    },
+    {
+      "id": "minecraft:cooked_chicken",
+      "required": false
+    },
+    {
+      "id": "minecraft:cooked_cod",
+      "required": false
+    },
+    {
+      "id": "minecraft:cooked_mutton",
+      "required": false
+    },
+    {
+      "id": "minecraft:cooked_porkchop",
+      "required": false
+    },
+    {
+      "id": "minecraft:cooked_rabbit",
+      "required": false
+    },
+    {
+      "id": "minecraft:cooked_salmon",
+      "required": false
+    }
+  ]
+}

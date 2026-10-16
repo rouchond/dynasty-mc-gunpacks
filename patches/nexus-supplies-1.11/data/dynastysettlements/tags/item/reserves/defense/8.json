@@ -1,0 +1,37 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#c:ingots/nethersteel",
+      "required": false
+    },
+    {
+      "id": "#c:plates/obsidian",
+      "required": false
+    },
+    {
+      "id": "create:sturdy_sheet",
+      "required": false
+    },
+    {
+      "id": "minecraft:chainmail_chestplate",
+      "required": false
+    },
+    {
+      "id": "minecraft:crossbow",
+      "required": false
+    },
+    {
+      "id": "minecraft:golden_chestplate",
+      "required": false
+    },
+    {
+      "id": "minecraft:iron_chestplate",
+      "required": false
+    },
+    {
+      "id": "minecraft:tnt",
+      "required": false
+    }
+  ]
+}

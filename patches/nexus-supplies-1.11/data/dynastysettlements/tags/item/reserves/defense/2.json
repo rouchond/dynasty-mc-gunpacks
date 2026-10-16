@@ -1,0 +1,65 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#c:armors",
+      "required": false
+    },
+    {
+      "id": "#c:ingots/iron",
+      "required": false
+    },
+    {
+      "id": "#c:plates/iron",
+      "required": false
+    },
+    {
+      "id": "#c:rods/iron",
+      "required": false
+    },
+    {
+      "id": "#minecraft:enchantable/sword",
+      "required": false
+    },
+    {
+      "id": "#minecraft:enchantable/weapon",
+      "required": false
+    },
+    {
+      "id": "create:iron_sheet",
+      "required": false
+    },
+    {
+      "id": "minecraft:gunpowder",
+      "required": false
+    },
+    {
+      "id": "minecraft:iron_ingot",
+      "required": false
+    },
+    {
+      "id": "minecraft:leather_boots",
+      "required": false
+    },
+    {
+      "id": "minecraft:leather_helmet",
+      "required": false
+    },
+    {
+      "id": "minecraft:stone_axe",
+      "required": false
+    },
+    {
+      "id": "minecraft:stone_sword",
+      "required": false
+    },
+    {
+      "id": "minecraft:wooden_axe",
+      "required": false
+    },
+    {
+      "id": "minecraft:wooden_sword",
+      "required": false
+    }
+  ]
+}

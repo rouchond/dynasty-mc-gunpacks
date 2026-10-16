@@ -1,0 +1,101 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#c:ingots/aluminum",
+      "required": false
+    },
+    {
+      "id": "#c:ingots/iron",
+      "required": false
+    },
+    {
+      "id": "#c:ingots/lead",
+      "required": false
+    },
+    {
+      "id": "#c:ingots/nickel",
+      "required": false
+    },
+    {
+      "id": "#c:ingots/silicon",
+      "required": false
+    },
+    {
+      "id": "#c:plates/aluminum",
+      "required": false
+    },
+    {
+      "id": "#c:plates/iron",
+      "required": false
+    },
+    {
+      "id": "#c:plates/lead",
+      "required": false
+    },
+    {
+      "id": "#c:plates/nickel",
+      "required": false
+    },
+    {
+      "id": "create:andesite_funnel",
+      "required": false
+    },
+    {
+      "id": "create:andesite_tunnel",
+      "required": false
+    },
+    {
+      "id": "create:cogwheel",
+      "required": false
+    },
+    {
+      "id": "create:electron_tube",
+      "required": false
+    },
+    {
+      "id": "create:filter",
+      "required": false
+    },
+    {
+      "id": "create:iron_sheet",
+      "required": false
+    },
+    {
+      "id": "create:propeller",
+      "required": false
+    },
+    {
+      "id": "minecraft:chain",
+      "required": false
+    },
+    {
+      "id": "minecraft:clock",
+      "required": false
+    },
+    {
+      "id": "minecraft:comparator",
+      "required": false
+    },
+    {
+      "id": "minecraft:compass",
+      "required": false
+    },
+    {
+      "id": "minecraft:iron_ingot",
+      "required": false
+    },
+    {
+      "id": "minecraft:lantern",
+      "required": false
+    },
+    {
+      "id": "minecraft:repeater",
+      "required": false
+    },
+    {
+      "id": "minecraft:soul_lantern",
+      "required": false
+    }
+  ]
+}

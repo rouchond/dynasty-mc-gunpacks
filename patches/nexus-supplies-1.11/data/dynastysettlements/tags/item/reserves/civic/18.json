@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#c:storage_blocks/aluminum",
+      "required": false
+    },
+    {
+      "id": "#c:storage_blocks/cast_iron",
+      "required": false
+    },
+    {
+      "id": "#c:storage_blocks/lead",
+      "required": false
+    },
+    {
+      "id": "#c:storage_blocks/nickel",
+      "required": false
+    },
+    {
+      "id": "minecraft:iron_block",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#minecraft:arrows",
+      "required": false
+    },
+    {
+      "id": "minecraft:feather",
+      "required": false
+    },
+    {
+      "id": "minecraft:flint",
+      "required": false
+    },
+    {
+      "id": "minecraft:leather",
+      "required": false
+    },
+    {
+      "id": "minecraft:string",
+      "required": false
+    }
+  ]
+}
